@@ -49,7 +49,7 @@ Here are some ideas to get you started:
       <p align="center"> 
         <img src="vvm1004.gif" alt="dev" width="100%"/>
       </p>
-    </td>[
+    </td>
   </tr>
 </table>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
