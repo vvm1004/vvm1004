@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p align="center"> 
-        <img src="https://nordiccoder.com/app/uploads/2019/03/programmer.gif" alt="dev" width="100%"/>
+        <img src="vvm1004.gif" alt="dev" width="100%"/>
       </p>
     </td>[
   </tr>
