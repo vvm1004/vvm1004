@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false" alt="vvm1004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vvm1004&theme=bear&show_icons=true" width="100%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvm1004&theme=bear&hide_border=false" alt="vvm1004" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vvm1004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvm1004&layout=compact&theme=bear" alt="vvm1004" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=vvm1004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvm1004&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
