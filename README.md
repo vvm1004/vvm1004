@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJs & Node.js(Express.js)
 
 
-<br />
+<!--<br />
 <a href="#" target="_blank">
   <img src="vvm1004.svg" width="1200" alt="vvm1004" />
-</a>
+</a>-->
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vvm1004/) 
