@@ -31,8 +31,11 @@ Here are some ideas to get you started:
   <img src="vvm1004.svg" width="1200" alt="vvm1004" />
 </a>-->
 
+<br clear="both" />
+
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvm1004) 
+ 
 # 💻 Tech Stack 
 
 ### 🎨 Frontend
@@ -68,8 +71,10 @@ Here are some ideas to get you started:
 
 ### ☁️ DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 
 ### ⛓️ Blockchain
