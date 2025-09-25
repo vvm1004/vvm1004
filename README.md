@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 - ✍ I am a student at Duy Tan University
-- 📫 How to reach me: by gmail vovanminhv23@gmail.com or facebook: https://www.facebook.com/vvm1004/
+- 📫 How to reach me: by gmail vovanminhv23@gmail.com 
 - 🌱 I’m currently learning Node.js(Express.js) and NestJS
 
 
