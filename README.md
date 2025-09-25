@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvm1004) 
- 
 # 💻 Tech Stack 
 
 ### 🎨 Frontend
@@ -104,8 +103,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vvm1004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
