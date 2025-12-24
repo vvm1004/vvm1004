@@ -1,7 +1,6 @@
 <!--
 **vvm1004/vvm1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <img align="right" width="350" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" alt="developer" />
 
 <h1 align="center">Hi 👋, I'm Minh</h1>
@@ -96,10 +95,6 @@
     </td>
   </tr>
 </table>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=vvm1004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvm1004&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvm1004&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --
-
 ---
 
 ### ✍️Random Dev Quote
