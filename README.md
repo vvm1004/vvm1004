@@ -74,7 +74,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🌐 Web3 & Decentralized Applications (dApps)
+### 🌐 Blockchain & Web3
 ![Solana](https://img.shields.io/badge/solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=%2300FFA3)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
